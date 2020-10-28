@@ -14,5 +14,6 @@ def huffmancode(file_name:str="santaclaus.txt"):
         "d":"011",
         ...
     }
+    entropy = 0.123456789
     '''
-    return code_dict
+    return code_dict, entropy

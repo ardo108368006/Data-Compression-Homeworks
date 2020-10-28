@@ -6,7 +6,7 @@ def huffmancode(file_name:str="santaclaus.txt"):
     your huffman coding algorithm
     '''
 
-    '''example
+    '''output example
     code_dict = {
         "a":"000", 
         "b":"001",

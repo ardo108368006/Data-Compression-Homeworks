@@ -2,7 +2,8 @@
 *.txt 
 huffman_test.py 
 python
-
+huffman.py
+answer
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

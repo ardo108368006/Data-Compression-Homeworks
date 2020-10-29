@@ -1,9 +1,6 @@
 # custom
-*.txt 
-huffman_test.py 
 python
 answer
-huffman_answer.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
